@@ -15,3 +15,5 @@
   4. Scroll to bottom of page and click "See more downloads"
   5. Locate Xcode 9.2, expand it, and click the Xcode 9.2.xip link
   6. After download, run Xcode for the first time
+
+Now that xcode and iterm are installed and working, Install Homebrew: <https://github.com/wdzajicek/mac-dev-kcc/tree/01-homebrew/#readme>
