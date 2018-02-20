@@ -11,7 +11,7 @@
 ### Xcode
   1. Refer to this table to find the correct xcode for your OS version: https://en.wikipedia.org/wiki/Xcode#Xcode_7.0_-_9.x_(since_Free_On-Device_Development)
 
-![xcode table](https://github.com/wdzajicek/mac-dev-kcc/blob/master/assets/img/xcode-table.png "Logo xcode table ")
+![xcode table](https://github.com/wdzajicek/mac-dev-kcc/blob/master/assets/img/xcode-table-sm.png "Logo xcode table ")
 
   2. Download the appropriate version from https://developer.apple.com/xcode/downloads/
   3. Must have apple ID and sign in to access page
