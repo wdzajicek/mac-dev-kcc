@@ -23,4 +23,5 @@
   10. [Install Bundler](https://github.com/wdzajicek/mac-dev-kcc/tree/09-bundler/#readme)
 
 A link to the next step is provided at the bottom of each readme:
+
 Next, [Install Xcode](https://github.com/wdzajicek/mac-dev-kcc/tree/01-xcode/#readme)
