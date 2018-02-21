@@ -20,4 +20,6 @@ To install RVM and Ruby
           // Download and install RVM
           $ \curl -sSL https://get.rvm.io | bash
 
-Next, Install Ruby via RVM: <https://github.com/wdzajicek/mac-dev-kcc/tree/03-ruby/#readme>
+Next, [Install Ruby](https://github.com/wdzajicek/mac-dev-kcc/tree/04-ruby/#readme)
+
+Back to [Main README.md](https://github.com/wdzajicek/mac-dev-kcc/#readme)

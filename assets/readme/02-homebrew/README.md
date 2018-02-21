@@ -14,4 +14,6 @@ To install Homebrew run:
 
   - Close iterm and restart
 
-Next, Install RVM: <https://github.com/wdzajicek/mac-dev-kcc/tree/02-rvm/#readme>
+Next, [Install RVM](https://github.com/wdzajicek/mac-dev-kcc/tree/03-rvm/#readme)
+
+Back to [Main README.md](https://github.com/wdzajicek/mac-dev-kcc/#readme)

@@ -7,4 +7,6 @@
   *  Check for Node.js and npm with:
   -        $ npm -v
 
-Next, install Gulp: <https://github.com/wdzajicek/mac-dev-kcc/tree/07-gulp/#readme>
+Next, [install Gulp](https://github.com/wdzajicek/mac-dev-kcc/tree/08-gulp/#readme)
+
+Back to [Main README.md](https://github.com/wdzajicek/mac-dev-kcc/#readme)

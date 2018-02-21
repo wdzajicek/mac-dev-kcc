@@ -7,4 +7,6 @@
         // It will take some time
 
 
-Next, set a default Ruby version to use: <https://github.com/wdzajicek/mac-dev-kcc/tree/04-default-ruby/#readme>
+Next, [set a default Ruby version](https://github.com/wdzajicek/mac-dev-kcc/tree/05-default-ruby/#readme)
+
+Back to [Main README.md](https://github.com/wdzajicek/mac-dev-kcc/#readme)

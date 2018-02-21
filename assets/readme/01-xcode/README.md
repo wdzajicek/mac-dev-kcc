@@ -14,3 +14,7 @@
 ![Xcode 9.2.xip screenshot](https://github.com/wdzajicek/mac-dev-kcc/blob/master/assets/img/xcode-download.png "Xcode 9.2.xip")
 
   6. After download, run Xcode for the first time
+
+Next, [Install Homebrew](https://github.com/wdzajicek/mac-dev-kcc/tree/02-homebrew/#readme)
+
+Back to [Main README.md](https://github.com/wdzajicek/mac-dev-kcc/#readme)

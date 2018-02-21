@@ -11,13 +11,16 @@
 
 ## Contents
 
-  1. [Install Homebrew](https://github.com/wdzajicek/mac-dev-kcc/tree/01-homebrew/#readme)
-  2. [Install RVM](https://github.com/wdzajicek/mac-dev-kcc/tree/02-rvm/#readme)
-  3. [Install Ruby](https://github.com/wdzajicek/mac-dev-kcc/tree/03-ruby/#readme)
-  4. [Set Default Ruby Version](https://github.com/wdzajicek/mac-dev-kcc/tree/04-default-ruby/#readme)
-  5. [Install Jekyll](https://github.com/wdzajicek/mac-dev-kcc/tree/05-jekyll/#readme)
-  6. [Install Node.js](https://github.com/wdzajicek/mac-dev-kcc/tree/06-nodejs/#readme)
-  7. [Install Gulp](https://github.com/wdzajicek/mac-dev-kcc/tree/07-gulp/#readme)
-  8. [Install Bundler](https://github.com/wdzajicek/mac-dev-kcc/tree/08-bundler/#readme)
+  1. [Main](https://github.com/wdzajicek/mac-dev-kcc/#readme)
+  2. [Install Xcode](https://github.com/wdzajicek/mac-dev-kcc/tree/01-xcode/#readme)
+  3. [Install Homebrew](https://github.com/wdzajicek/mac-dev-kcc/tree/02-homebrew/#readme)
+  4. [Install RVM](https://github.com/wdzajicek/mac-dev-kcc/tree/03-rvm/#readme)
+  5. [Install Ruby](https://github.com/wdzajicek/mac-dev-kcc/tree/04-ruby/#readme)
+  6. [Set Default Ruby Version](https://github.com/wdzajicek/mac-dev-kcc/tree/05-default-ruby/#readme)
+  7. [Install Jekyll](https://github.com/wdzajicek/mac-dev-kcc/tree/06-jekyll/#readme)
+  8. [Install Node.js](https://github.com/wdzajicek/mac-dev-kcc/tree/07-nodejs/#readme)
+  9. [Install Gulp](https://github.com/wdzajicek/mac-dev-kcc/tree/08-gulp/#readme)
+  10. [Install Bundler](https://github.com/wdzajicek/mac-dev-kcc/tree/09-bundler/#readme)
 
-Now that xcode and iterm are installed and working, Install Homebrew: <https://github.com/wdzajicek/mac-dev-kcc/tree/01-homebrew/#readme>
+A link to the next step is provided at the bottom of each readme:
+Next, [Install Xcode](https://github.com/wdzajicek/mac-dev-kcc/tree/01-xcode/#readme)

@@ -18,4 +18,6 @@
   *        $ gem install rubygems-update
            $ update_rubygems
 
-Next, install Jekyll: <https://github.com/wdzajicek/mac-dev-kcc/tree/05-jekyll/#readme>
+Next, [install Jekyll](https://github.com/wdzajicek/mac-dev-kcc/tree/06-jekyll/#readme)
+
+Back to [Main README.md](https://github.com/wdzajicek/mac-dev-kcc/#readme)
