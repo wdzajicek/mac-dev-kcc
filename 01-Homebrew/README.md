@@ -3,7 +3,7 @@
 <https://brew.sh/>
 
 To install Homebrew run:
-  -     // downlaod and install homebrew
+  -     // download and install homebrew
         $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
         // check if homebrew is working by install wget
