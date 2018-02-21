@@ -13,6 +13,9 @@
 
          // To use ruby v2.4.2 it's:
          $ rvm use 2.4.2 --default
+
   * Update the rubygems using:
   *        $ gem install rubygems-update
            $ update_rubygems
+
+Next, install Jekyll: <https://github.com/wdzajicek/mac-dev-kcc/tree/05-jekyll/#readme>
