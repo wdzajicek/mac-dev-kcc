@@ -1,4 +1,4 @@
-### Xcode
+# Xcode
   1. Refer to this table to find the correct xcode for your OS version: https://en.wikipedia.org/wiki/Xcode#Xcode_7.0_-_9.x_(since_Free_On-Device_Development)
 
 ![xcode table screenshot](https://github.com/wdzajicek/mac-dev-kcc/blob/master/assets/img/xcode-table-sm.png "Xcode table ")
