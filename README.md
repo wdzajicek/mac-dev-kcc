@@ -1,27 +1,23 @@
-# Setup Mac Develoment Environment for Building KCC pages
+# Setting a Default Ruby Version to use with RVM
 
-## Prerequisites
+  * To specify ruby version to use:
+  *      $ rvm use <version numbers only>
 
-### The system:
-* Native Mac with x64 architecture
-* macOS Sierra 10.12.6 (16G1114)
+         // For Ruby v2.4.2 its:
+         $ rvm use 2.4.2
 
-### iterm
-* iterm2 - Use installer from: https://www.iterm2.com/
+## Set the Defult Ruby Version
 
-## Contents
+  * To set defualt ruby version for RVM to use:
+  *      $ rvm use [version #] --default
 
-  1. [Main](https://github.com/wdzajicek/mac-dev-kcc/#readme)
-  2. [Install Xcode](https://github.com/wdzajicek/mac-dev-kcc/tree/01-xcode/#readme)
-  3. [Install Homebrew](https://github.com/wdzajicek/mac-dev-kcc/tree/02-homebrew/#readme)
-  4. [Install RVM](https://github.com/wdzajicek/mac-dev-kcc/tree/03-rvm/#readme)
-  5. [Install Ruby](https://github.com/wdzajicek/mac-dev-kcc/tree/04-ruby/#readme)
-  6. [Set Default Ruby Version](https://github.com/wdzajicek/mac-dev-kcc/tree/05-default-ruby/#readme)
-  7. [Install Jekyll](https://github.com/wdzajicek/mac-dev-kcc/tree/06-jekyll/#readme)
-  8. [Install Node.js](https://github.com/wdzajicek/mac-dev-kcc/tree/07-nodejs/#readme)
-  9. [Install Gulp](https://github.com/wdzajicek/mac-dev-kcc/tree/08-gulp/#readme)
-  10. [Install Bundler](https://github.com/wdzajicek/mac-dev-kcc/tree/09-bundler/#readme)
+         // To use ruby v2.4.2 it's:
+         $ rvm use 2.4.2 --default
 
-A link to the next step is provided at the bottom of each readme:
+  * Update the rubygems using:
+  *        $ gem install rubygems-update
+           $ update_rubygems
 
-Next, [Install Xcode](https://github.com/wdzajicek/mac-dev-kcc/tree/01-xcode/#readme)
+Next, [install Jekyll](https://github.com/wdzajicek/mac-dev-kcc/tree/06-jekyll/#readme)
+
+Back to [Main README.md](https://github.com/wdzajicek/mac-dev-kcc/#readme)
